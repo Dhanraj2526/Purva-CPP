@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="c++/c++.vcxproj" Id="77de4af1-d46e-46f9-8258-24ebe8a5c733" />
+  <Project Path="Purva/Purva.vcxproj" Id="404803f1-2b6c-4af9-84be-2a8f3732b542" />
+  <Project Path="purva2/purva2.vcxproj" Id="4b1b76ee-144b-4eaf-af3e-af934657cdf6" />
+</Solution>
